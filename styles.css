@@ -1,0 +1,7 @@
+/* Add your CSS styles here for better presentation */
+.chart {
+    width: 800px;
+    height: 800px;
+    display: inline-block;
+    margin: 50px;
+}
